@@ -25,7 +25,7 @@ Baixe os arquivos do repositório diretamente pelo github ou pelo terminal utili
 
 
 <code>
-<span style="color: tomato">»</span> git clone git clone https://github.com/MarllonVinicius0/Trabalho12.git
+<span style="color: tomato">»</span>  git clone https://github.com/MarllonVinicius0/Trabalho12.git
 </code>
 
 Para rodar este código o usuário basta somente realizar uma sequência de instruções no terminal:
