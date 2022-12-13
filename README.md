@@ -44,4 +44,4 @@ Logo após executar com:
 <span style="color: tomato">»./TR5_536828 para linux
 </code>
 
-OBS: Há uma main de exemplo disposta neste repositório: [main.c](https://github.com/MarllonVinicius0/Trabalho12/blob/main/main.c)
+OBS: Há uma main de exemplo disposta neste repositório: [main.c](https://github.com/MarllonVinicius0/Trabalho12/blob/main/main.c). Note que o comportamento do código poderá ser diferente de acordo com a main utilizada.
